@@ -10,7 +10,7 @@ Projects that I have worked on am currently working on. Currently working on a f
 
 ```markdown
 Syntax highlighted code block
-![Black Hole](/images/BlackHole1.png)
+![Black Hole](shaanku.github.io/Ghibli Tree.png)
 ![Ghibli Tree](/Ghibli Tree.png)
 
 ```

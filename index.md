@@ -8,13 +8,14 @@ I am Shaan Kumar, currently a UMass Amherst freshemen.
 
 Projects that I have worked on am currently working on. Currently working on a female Funko Pop 3D model.
 
-```markdown
-Syntax highlighted code block
-![Black Hole](shaanku.github.io/Ghibli Tree.png)
-![Ghibli Tree](/Ghibli Tree.png)
-
-```
+![Black Hole](https://shaanku.github.io/BlackHole1.png)
+![Ghibli Tree](https://shaanku.github.io/Ghibli%20Tree.png)
 
 ### Contact
+[Reddit](https://www.reddit.com/user/ShankU02)
 
+[SnapChat](https://www.snapchat.com/add/shanku-2)
 
+[Pinterest](www.pinterest.com/kshagun8)
+
+[Instagram](www.instagram.com/shaank34)

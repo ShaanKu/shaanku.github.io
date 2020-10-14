@@ -9,9 +9,10 @@ I am Shaan Kumar, currently a UMass Amherst freshemen.
 Projects that I have worked on am currently working on. Currently working on a female Funko Pop 3D model.
 
 ![Shaan's Funko](https://shaanku.github.io/SFunko.png)
-Current Project for 3D printing
+
 ![Black Hole](https://shaanku.github.io/BlackHole1.png)
 My very _**first**_ render ever
+
 ![Ghibli Tree](https://shaanku.github.io/Ghibli%20Tree.png)
 Ghibli tree model for later project
 
